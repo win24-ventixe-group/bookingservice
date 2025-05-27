@@ -1,0 +1,3 @@
+# Ignore local config
+Presentation/appsettings.json
+Presentation/appsettings.Development.json
